@@ -171,4 +171,5 @@ The book provides detailed explanations of each command with examples, which I s
 - 1 indicates that the task will run every Monday (Monday is day 1 of the week in cron).
 - /path/to/command is the path to the command that will be executed.
 
-
+---
+Pull requests are welcome for adding or removing commands, as well as for modifying or correcting errors.
